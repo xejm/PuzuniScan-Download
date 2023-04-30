@@ -1,2 +1,2 @@
-# PuzuniSS-Scanner
+# PuzuniScan-Download
 Scanner Download
