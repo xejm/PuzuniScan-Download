@@ -3,5 +3,5 @@
   <version>1.0.0.1</version>
   <url>https://anonfiles.com/c1I2zdo7z1/PuzuniScan_exe</url>
   <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
-  <mandatory>false</mandatory>
+<mandatory mode="2">true</mandatory>
 </item>
