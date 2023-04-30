@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>2.0.0.0</version>
-  <url>https://rbsoft.org/downloads/AutoUpdaterTest.zip</url>
+  <version>1.0.0.1</version>
+  <url>https://anonfiles.com/c1I2zdo7z1/PuzuniScan_exe</url>
   <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
   <mandatory>false</mandatory>
 </item>
