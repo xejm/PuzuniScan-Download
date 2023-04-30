@@ -2,6 +2,5 @@
 <item>
   <version>2.1.3.7</version>
   <url>https://anonfiles.com/S7Fc0do2za/PuzuniScan_exe</url>
-
-<mandatory mode="2">true</mandatory>
+  <mandatory>false</mandatory>
 </item>
